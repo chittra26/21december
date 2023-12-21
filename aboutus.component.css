@@ -1,0 +1,36 @@
+.vision{
+    width: 330px;
+    height: 200px;
+    background-color: black;
+    border:2px solid #1DCB8B;
+
+    outline: 8px solid black;
+    margin-top: 270px;
+    margin-left: 10px;
+  }
+  .vision p{
+    font-size: larger;
+    color: #1DCB8B;
+    line-height: 1.5;
+    margin-left: 10px;
+  }
+  .mission{
+    margin-top: 15px;
+    width: 330px;
+    height: 400px;
+    background-color: black;
+    border:2px solid #1DCB8B;
+    outline: 8px solid black;
+    margin-left: 10px;
+  }
+  .mission pre{
+    font-size: larger;
+    color: #1DCB8B;
+    line-height: 1.5;
+
+}
+.mission h2{
+    color: white;
+    
+}
+  
